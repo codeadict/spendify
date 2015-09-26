@@ -1,0 +1,26 @@
+{
+  "name": "spendify",
+  "version": "1.0.0",
+  "authors": [
+    "Dairon Medina <dairon.medina@gmail.com>"
+  ],
+  "description": "Personal expense tracking app",
+  "main": "server.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "expense",
+    "api",
+    "rest"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/codeadict/spendify",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
