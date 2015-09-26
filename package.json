@@ -20,6 +20,12 @@
     "node-sass": "^3.3.3"
   },
   "devDependencies": {
-    "grunt-contrib-watch": "^0.6.1"
+    "chai": "^3.3.0",
+    "chai-as-promised": "^5.1.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "mocha": "^2.3.3",
+    "sinon": "^1.17.0",
+    "sinon-chai": "^2.8.0",
+    "wd": "^0.3.12"
   }
 }
