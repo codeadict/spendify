@@ -17,7 +17,9 @@
     "mongoose": "^4.1.8",
     "node-bourbon": "^4.2.3",
     "node-neat": "^1.7.2",
-    "node-sass": "^3.3.3"
+    "node-sass": "^3.3.3",
+    "passport": "^0.3.0",
+    "passport-local": "^1.0.0"
   },
   "devDependencies": {
     "chai": "^3.3.0",
