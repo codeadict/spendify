@@ -4,6 +4,13 @@ module.exports = function(grunt) {
       dist: {
         files: {
           'public/css/styles.css': 'sass/styles.scss'
+        },
+        options: {
+          sourceMap: true,
+          includePaths: [
+            require('node-bourbon').includePaths,
+            require('node-neat').includePaths
+          ]
         }
       }
     },
