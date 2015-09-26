@@ -16,6 +16,7 @@
     "grunt-sass": "^1.1.0-beta",
     "mongoose": "^4.1.8",
     "node-bourbon": "^4.2.3",
+    "node-neat": "^1.7.2",
     "node-sass": "^3.3.3"
   },
   "devDependencies": {
